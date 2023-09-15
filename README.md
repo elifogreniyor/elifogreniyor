@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @elifogreniyor 
-- 🌱 I’m currently learning Flutter & Dart and Swift!
+- 🌱 I’m currently learning Flutter and Swift!
